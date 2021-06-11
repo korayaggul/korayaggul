@@ -1,4 +1,3 @@
-<div>
   <h1 align="center">Hi 👋, I'm Koray</h1>
   <h3 align="center">I am Web and Mobile application developer</h3>
 
@@ -112,4 +111,3 @@
       />
     </a>
   </p>
-</div>;
