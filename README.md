@@ -6,7 +6,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/korayaggul" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="korayaggul" height="30" width="100" /></a>
-<a href="https://instagram.com/korayagl" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="korayaggl" height="30" width="110" /></a>
+<a href="https://instagram.com/korayaggl" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="korayaggl" height="30" width="110" /></a>
 
  
 </p>
