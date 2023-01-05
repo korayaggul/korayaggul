@@ -15,11 +15,4 @@
   <a href="https://korayaggul.medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="korayaggl" height="30" width="110" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="100" height="30"/> </a> 
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" width="100" height="30"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="100" height="30"/>
- <a href="https://www.w3.org/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="html5" width="80" height="30"/> </a>
- </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="120" height="30"/> </a> 
- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="90" height="30"/> </a> 
- <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative" width="110" height="30"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" width="100" height="30"/> </a> </p>
+
